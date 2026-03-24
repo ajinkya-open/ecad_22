@@ -974,7 +974,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dddd.kicad_pro",
+    "filename": "aaaaa.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1109,7 +1109,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "export/",
+      "plot": "export/pcb/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../front/back.step",
@@ -1638,8 +1638,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "dddd.kicad_sch",
-        "name": "dddd",
+        "filename": "aaaaa.kicad_sch",
+        "name": "aaaaa",
         "uuid": "8469cd9a-15fe-4677-a617-64af849f0980"
       }
     ],

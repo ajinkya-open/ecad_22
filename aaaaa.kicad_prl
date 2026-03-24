@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "NO_Fab_NO_Courtyard",
+    "active_layer": 17,
+    "active_layer_preset": "NO_Fab",
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -50,7 +50,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_5fffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffff5_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -61,7 +61,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "dddd.kicad_prl",
+    "filename": "aaaaa.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -115,7 +115,7 @@
     "sorting_column": 0
   },
   "open_jobsets": [
-    "../../../../../../../../media/ajinkya/data/kicad/jobsets/all_imp.kicad_jobset"
+    "../../../../media/ajinkya/devs/kicad/KICAD_CONFIG/jobsets/all_imp.kicad_jobset"
   ],
   "project": {
     "files": []
