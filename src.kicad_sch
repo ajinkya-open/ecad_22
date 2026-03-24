@@ -1,0 +1,238 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c5bd97fb-4cb8-450b-9d6d-64560b5fab53")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 139.7 34.29)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0d356f7b-078b-4ad6-bf8c-3f2afd8be07a")
+		(property "Sheetname" "HF32_3"
+			(at 139.7 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HF32.kicad_sch"
+			(at 139.7 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dddd"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980/d6bd838b-572d-4582-984d-fc1931379fc2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 34.29)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3be2a3e1-679c-4dd5-a5ec-2767dbcf8bb8")
+		(property "Sheetname" "HF32_1"
+			(at 43.18 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HF32.kicad_sch"
+			(at 43.18 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dddd"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980/d6bd838b-572d-4582-984d-fc1931379fc2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 72.39)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4bf06d5a-b7ec-4503-8959-8c1455f2fd11")
+		(property "Sheetname" "HF32_5"
+			(at 43.18 71.6784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HF32.kicad_sch"
+			(at 43.18 85.6746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dddd"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980/d6bd838b-572d-4582-984d-fc1931379fc2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 34.29)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5e937983-8877-4399-bc46-db8f35172871")
+		(property "Sheetname" "HF32_4"
+			(at 187.96 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HF32.kicad_sch"
+			(at 187.96 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dddd"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980/d6bd838b-572d-4582-984d-fc1931379fc2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 34.29)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cdd83d08-f45e-4e29-a548-13b6ce20d02b")
+		(property "Sheetname" "HF32_2"
+			(at 91.44 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HF32.kicad_sch"
+			(at 91.44 47.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dddd"
+				(path "/8469cd9a-15fe-4677-a617-64af849f0980/d6bd838b-572d-4582-984d-fc1931379fc2"
+					(page "4")
+				)
+			)
+		)
+	)
+)
